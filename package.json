@@ -1,0 +1,19 @@
+{
+  "name": "basic-auth-demo",
+  "version": "1.0.0",
+  "description": "basic auth demo",
+  "main": "basicAuth.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "basic",
+    "auth"
+  ],
+  "author": "sodino",
+  "license": "ISC"
+}
